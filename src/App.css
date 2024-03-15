@@ -98,3 +98,7 @@
   right: 2rem;
   display: inline-block;
 }
+
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';

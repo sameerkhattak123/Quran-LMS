@@ -11,6 +11,7 @@ import {
   TOGGLE_BLOCK_USER,
   ADMIN_DELETE_COURSE,
   ADMIN_GET_COURSES,
+  ANNOUNCEMENTS_ERROR
 } from '../const';
 
 
