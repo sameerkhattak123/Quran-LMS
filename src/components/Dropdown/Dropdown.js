@@ -99,7 +99,7 @@ const Dropdown = ({ onSurahSelect }) => {
             </li>
           ))
         ) : (
-          <p>Loadinggg...</p>
+          <p>Loading...</p>
         )}
       </ul>
     </div>

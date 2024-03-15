@@ -19,7 +19,7 @@ import axios from "axios";
   
   export const getSurahs = () => async (dispatch) => {
     try {
-      const res = await axios.get('http://api.alquran.cloud/v1/surah');
+      const res = await axios.get('https://api.alquran.cloud/v1/surah');
   
       dispatch({
         type: FETCH_SURAH_SUCCESS,
